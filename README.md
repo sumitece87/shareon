@@ -1,5 +1,8 @@
 # shareon
 Traffic-Aware Dynamic Container Migration for Real-Time Support in Mobile Edge Clouds
+This is based on the following paper:
+https://www.researchgate.net/publication/328096627_Traffic-Aware_Dynamic_Container_Migration_for_Real-Time_Support_in_Mobile_Edge_Clouds
+
 
 1	Introduction
 In these experiments, we run a mobility emulation for a user using a real-time license plate recognition application using GENI nodes. There are total six nodes as follows: 
