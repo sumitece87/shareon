@@ -1,0 +1,1676 @@
+images/001.jpg
+Total Time to process image: 69.0638ms.
+plate0: 1 results -- Processing Time = 12.1659ms.
+    - K43EGK	 confidence: 90.6924
+Processing successful
+images/002.jpg
+Total Time to process image: 69.0058ms.
+plate0: 1 results -- Processing Time = 12.1591ms.
+    - K43EGK	 confidence: 91.4855
+Processing successful
+images/003.jpg
+Total Time to process image: 68.6077ms.
+plate0: 1 results -- Processing Time = 11.5696ms.
+    - K43EGK	 confidence: 92.2534
+Processing successful
+images/004.jpg
+Total Time to process image: 69.066ms.
+plate0: 1 results -- Processing Time = 12.5098ms.
+    - K43EGK	 confidence: 92.0125
+Processing successful
+images/005.jpg
+Total Time to process image: 68.3956ms.
+plate0: 1 results -- Processing Time = 11.5766ms.
+    - K43EGK	 confidence: 93.2291
+Processing successful
+images/006.jpg
+Total Time to process image: 69.202ms.
+plate0: 1 results -- Processing Time = 12.6153ms.
+    - K43EGK	 confidence: 92.6126
+Processing successful
+images/007.jpg
+Total Time to process image: 70.8671ms.
+plate0: 1 results -- Processing Time = 12.024ms.
+    - K43EGK	 confidence: 91.6432
+Processing successful
+images/008.jpg
+Total Time to process image: 68.4438ms.
+plate0: 1 results -- Processing Time = 11.7579ms.
+    - K43EGK	 confidence: 93.2662
+Processing successful
+images/009.jpg
+Total Time to process image: 70.1796ms.
+plate0: 1 results -- Processing Time = 12.7165ms.
+    - K43EGK	 confidence: 91.9543
+Processing successful
+images/010.jpg
+Total Time to process image: 69.3797ms.
+plate0: 1 results -- Processing Time = 12.1131ms.
+    - K43EGK	 confidence: 92.6979
+Processing successful
+images/011.jpg
+Total Time to process image: 68.3803ms.
+plate0: 1 results -- Processing Time = 11.3081ms.
+    - K43EGK	 confidence: 92.0947
+Processing successful
+images/012.jpg
+Total Time to process image: 68.718ms.
+plate0: 1 results -- Processing Time = 11.8876ms.
+    - K43EGK	 confidence: 91.4361
+Processing successful
+images/013.jpg
+Total Time to process image: 68.5633ms.
+plate0: 1 results -- Processing Time = 12.0254ms.
+    - K43EGK	 confidence: 92.4297
+Processing successful
+images/014.jpg
+Total Time to process image: 68.4132ms.
+plate0: 1 results -- Processing Time = 11.8687ms.
+    - K43EGK	 confidence: 92.0195
+Processing successful
+images/015.jpg
+Total Time to process image: 69.6538ms.
+plate0: 1 results -- Processing Time = 12.2556ms.
+    - K43EGK	 confidence: 92.8861
+Processing successful
+images/016.jpg
+Total Time to process image: 69.5129ms.
+plate0: 1 results -- Processing Time = 12.189ms.
+    - K43EGK	 confidence: 91.7701
+Processing successful
+images/017.jpg
+Total Time to process image: 69.6934ms.
+plate0: 1 results -- Processing Time = 11.9706ms.
+    - K43EGK	 confidence: 91.8369
+Processing successful
+images/018.jpg
+Total Time to process image: 70.7208ms.
+plate0: 1 results -- Processing Time = 12.6204ms.
+    - K43EGK	 confidence: 92.9716
+Processing successful
+images/019.jpg
+Total Time to process image: 69.2959ms.
+plate0: 1 results -- Processing Time = 11.9293ms.
+    - K43EGK	 confidence: 92.3823
+Processing successful
+images/020.jpg
+Total Time to process image: 69.3686ms.
+plate0: 1 results -- Processing Time = 11.8701ms.
+    - K43EGK	 confidence: 92.2813
+Processing successful
+images/021.jpg
+Total Time to process image: 70.1365ms.
+plate0: 1 results -- Processing Time = 12.5757ms.
+    - K43EGK	 confidence: 92.0526
+Processing successful
+images/022.jpg
+Total Time to process image: 70.142ms.
+plate0: 1 results -- Processing Time = 12.196ms.
+    - K43EGK	 confidence: 92.1138
+Processing successful
+images/023.jpg
+Total Time to process image: 69.8417ms.
+plate0: 1 results -- Processing Time = 12.128ms.
+    - K43EGK	 confidence: 91.9209
+Processing successful
+images/024.jpg
+Total Time to process image: 68.7216ms.
+plate0: 1 results -- Processing Time = 12.0383ms.
+    - K43EGK	 confidence: 93.2407
+Processing successful
+images/025.jpg
+Total Time to process image: 68.909ms.
+plate0: 1 results -- Processing Time = 11.9511ms.
+    - K43EGK	 confidence: 93.3903
+Processing successful
+images/026.jpg
+Total Time to process image: 69.2234ms.
+plate0: 1 results -- Processing Time = 11.7925ms.
+    - K43EGK	 confidence: 92.339
+Processing successful
+images/027.jpg
+Total Time to process image: 68.9538ms.
+plate0: 1 results -- Processing Time = 12.1249ms.
+    - K43EGK	 confidence: 92.9696
+Processing successful
+images/028.jpg
+Total Time to process image: 69.0031ms.
+plate0: 1 results -- Processing Time = 11.7003ms.
+    - K43EGK	 confidence: 93.4498
+Processing successful
+images/029.jpg
+Total Time to process image: 92.8378ms.
+plate0: 1 results -- Processing Time = 16.6434ms.
+    - K43EGK	 confidence: 92.1585
+Processing successful
+images/030.jpg
+Total Time to process image: 68.981ms.
+plate0: 1 results -- Processing Time = 12.3685ms.
+    - K43EGK	 confidence: 93.6496
+Processing successful
+images/031.jpg
+Total Time to process image: 70.1204ms.
+plate0: 1 results -- Processing Time = 12.7921ms.
+    - K43EGK	 confidence: 91.3102
+Processing successful
+images/032.jpg
+Total Time to process image: 69.9367ms.
+plate0: 1 results -- Processing Time = 12.3322ms.
+    - K43EGK	 confidence: 91.0373
+Processing successful
+images/033.jpg
+Total Time to process image: 70.4725ms.
+plate0: 1 results -- Processing Time = 12.6781ms.
+    - K43EGK	 confidence: 92.6531
+Processing successful
+images/034.jpg
+Total Time to process image: 68.1054ms.
+plate0: 1 results -- Processing Time = 11.1177ms.
+    - K43EGK	 confidence: 91.0624
+Processing successful
+images/035.jpg
+Total Time to process image: 71.7848ms.
+plate0: 1 results -- Processing Time = 12.5484ms.
+    - K43EGK	 confidence: 91.1445
+Processing successful
+images/036.jpg
+Total Time to process image: 69.0324ms.
+plate0: 1 results -- Processing Time = 12.089ms.
+    - K43EGK	 confidence: 91.9998
+Processing successful
+images/037.jpg
+Total Time to process image: 68.7993ms.
+plate0: 1 results -- Processing Time = 12.1861ms.
+    - K43EGK	 confidence: 92.9406
+Processing successful
+images/038.jpg
+Total Time to process image: 69.2718ms.
+plate0: 1 results -- Processing Time = 12.6723ms.
+    - K43EGK	 confidence: 92.4127
+Processing successful
+images/039.jpg
+Total Time to process image: 68.0689ms.
+plate0: 1 results -- Processing Time = 11.8207ms.
+    - K43EGK	 confidence: 91.9564
+Processing successful
+images/040.jpg
+Total Time to process image: 68.5532ms.
+plate0: 1 results -- Processing Time = 11.7538ms.
+    - K43EGK	 confidence: 93.6211
+Processing successful
+images/041.jpg
+Total Time to process image: 69.7671ms.
+plate0: 1 results -- Processing Time = 12.0492ms.
+    - K43EGK	 confidence: 91.4679
+Processing successful
+images/042.jpg
+Total Time to process image: 69.4041ms.
+plate0: 1 results -- Processing Time = 12.4222ms.
+    - K43EGK	 confidence: 91.4651
+Processing successful
+images/043.jpg
+Total Time to process image: 70.6303ms.
+plate0: 1 results -- Processing Time = 13.4027ms.
+    - K43EGK	 confidence: 92.5353
+Processing successful
+images/044.jpg
+Total Time to process image: 68.1864ms.
+plate0: 1 results -- Processing Time = 11.979ms.
+    - K43EGK	 confidence: 89.9949
+Processing successful
+images/045.jpg
+Total Time to process image: 69.8023ms.
+plate0: 1 results -- Processing Time = 12.8719ms.
+    - K43EGK	 confidence: 91.6412
+Processing successful
+images/046.jpg
+Total Time to process image: 69.088ms.
+plate0: 1 results -- Processing Time = 11.9849ms.
+    - K43EGK	 confidence: 92.025
+Processing successful
+images/047.jpg
+Total Time to process image: 69.5486ms.
+plate0: 1 results -- Processing Time = 12.4199ms.
+    - K43EGK	 confidence: 93.1541
+Processing successful
+images/048.jpg
+Total Time to process image: 69.195ms.
+plate0: 1 results -- Processing Time = 12.7179ms.
+    - K43EGK	 confidence: 91.0334
+Processing successful
+images/049.jpg
+Total Time to process image: 68.6389ms.
+plate0: 1 results -- Processing Time = 12.0331ms.
+    - K43EGK	 confidence: 92.2237
+Processing successful
+images/050.jpg
+Total Time to process image: 68.1527ms.
+plate0: 1 results -- Processing Time = 11.4783ms.
+    - K43EGK	 confidence: 92.1111
+Processing successful
+images/051.jpg
+Total Time to process image: 68.3282ms.
+plate0: 1 results -- Processing Time = 12.6157ms.
+    - K43EGK	 confidence: 92.6061
+Processing successful
+images/052.jpg
+Total Time to process image: 66.9702ms.
+plate0: 1 results -- Processing Time = 11.6739ms.
+    - K43EGK	 confidence: 90.7518
+Processing successful
+images/001.jpg
+Total Time to process image: 68.6926ms.
+plate0: 1 results -- Processing Time = 12.1936ms.
+    - K43EGK	 confidence: 90.6924
+Processing successful
+images/002.jpg
+Total Time to process image: 68.8816ms.
+plate0: 1 results -- Processing Time = 12.1552ms.
+    - K43EGK	 confidence: 91.4855
+Processing successful
+images/003.jpg
+Total Time to process image: 68.0191ms.
+plate0: 1 results -- Processing Time = 11.5122ms.
+    - K43EGK	 confidence: 92.2534
+Processing successful
+images/004.jpg
+Total Time to process image: 69.1121ms.
+plate0: 1 results -- Processing Time = 12.4287ms.
+    - K43EGK	 confidence: 92.0125
+Processing successful
+images/005.jpg
+Total Time to process image: 68.8161ms.
+plate0: 1 results -- Processing Time = 11.5084ms.
+    - K43EGK	 confidence: 93.2291
+Processing successful
+images/006.jpg
+Total Time to process image: 69.4414ms.
+plate0: 1 results -- Processing Time = 12.5858ms.
+    - K43EGK	 confidence: 92.6126
+Processing successful
+images/007.jpg
+Total Time to process image: 69.061ms.
+plate0: 1 results -- Processing Time = 12.0541ms.
+    - K43EGK	 confidence: 91.6432
+Processing successful
+images/008.jpg
+Total Time to process image: 68.7794ms.
+plate0: 1 results -- Processing Time = 11.716ms.
+    - K43EGK	 confidence: 93.2662
+Processing successful
+images/009.jpg
+Total Time to process image: 69.8235ms.
+plate0: 1 results -- Processing Time = 12.5816ms.
+    - K43EGK	 confidence: 91.9543
+Processing successful
+images/010.jpg
+Total Time to process image: 69.5267ms.
+plate0: 1 results -- Processing Time = 12.0649ms.
+    - K43EGK	 confidence: 92.6979
+Processing successful
+images/011.jpg
+Total Time to process image: 68.3893ms.
+plate0: 1 results -- Processing Time = 11.3076ms.
+    - K43EGK	 confidence: 92.0947
+Processing successful
+images/012.jpg
+Total Time to process image: 68.604ms.
+plate0: 1 results -- Processing Time = 11.848ms.
+    - K43EGK	 confidence: 91.4361
+Processing successful
+images/013.jpg
+Total Time to process image: 68.441ms.
+plate0: 1 results -- Processing Time = 11.9523ms.
+    - K43EGK	 confidence: 92.4297
+Processing successful
+images/014.jpg
+Total Time to process image: 68.5243ms.
+plate0: 1 results -- Processing Time = 11.8293ms.
+    - K43EGK	 confidence: 92.0195
+Processing successful
+images/015.jpg
+Total Time to process image: 69.5556ms.
+plate0: 1 results -- Processing Time = 12.255ms.
+    - K43EGK	 confidence: 92.8861
+Processing successful
+images/016.jpg
+Total Time to process image: 69.7127ms.
+plate0: 1 results -- Processing Time = 12.1285ms.
+    - K43EGK	 confidence: 91.7701
+Processing successful
+images/017.jpg
+Total Time to process image: 69.4804ms.
+plate0: 1 results -- Processing Time = 11.9083ms.
+    - K43EGK	 confidence: 91.8369
+Processing successful
+images/018.jpg
+Total Time to process image: 70.3189ms.
+plate0: 1 results -- Processing Time = 12.5992ms.
+    - K43EGK	 confidence: 92.9716
+Processing successful
+images/019.jpg
+Total Time to process image: 69.3582ms.
+plate0: 1 results -- Processing Time = 11.9227ms.
+    - K43EGK	 confidence: 92.3823
+Processing successful
+images/020.jpg
+Total Time to process image: 69.3243ms.
+plate0: 1 results -- Processing Time = 11.8389ms.
+    - K43EGK	 confidence: 92.2813
+Processing successful
+images/021.jpg
+Total Time to process image: 70.8233ms.
+plate0: 1 results -- Processing Time = 12.5502ms.
+    - K43EGK	 confidence: 92.0526
+Processing successful
+images/022.jpg
+Total Time to process image: 69.7262ms.
+plate0: 1 results -- Processing Time = 12.2148ms.
+    - K43EGK	 confidence: 92.1138
+Processing successful
+images/023.jpg
+Total Time to process image: 69.844ms.
+plate0: 1 results -- Processing Time = 11.9981ms.
+    - K43EGK	 confidence: 91.9209
+Processing successful
+images/024.jpg
+Total Time to process image: 68.7563ms.
+plate0: 1 results -- Processing Time = 11.9779ms.
+    - K43EGK	 confidence: 93.2407
+Processing successful
+images/025.jpg
+Total Time to process image: 69.3873ms.
+plate0: 1 results -- Processing Time = 11.9605ms.
+    - K43EGK	 confidence: 93.3903
+Processing successful
+images/026.jpg
+Total Time to process image: 68.7387ms.
+plate0: 1 results -- Processing Time = 11.7232ms.
+    - K43EGK	 confidence: 92.339
+Processing successful
+images/027.jpg
+Total Time to process image: 69.6661ms.
+plate0: 1 results -- Processing Time = 12.0609ms.
+    - K43EGK	 confidence: 92.9696
+Processing successful
+images/028.jpg
+Total Time to process image: 68.9312ms.
+plate0: 1 results -- Processing Time = 11.7534ms.
+    - K43EGK	 confidence: 93.4498
+Processing successful
+images/029.jpg
+images/001.jpg
+Total Time to process image: 68.6298ms.
+plate0: 1 results -- Processing Time = 12.1237ms.
+    - K43EGK	 confidence: 90.6924
+Processing successful
+images/002.jpg
+Total Time to process image: 68.9803ms.
+plate0: 1 results -- Processing Time = 12.129ms.
+    - K43EGK	 confidence: 91.4855
+Processing successful
+images/003.jpg
+Total Time to process image: 68.0328ms.
+plate0: 1 results -- Processing Time = 11.5226ms.
+    - K43EGK	 confidence: 92.2534
+Processing successful
+images/004.jpg
+Total Time to process image: 69.2556ms.
+plate0: 1 results -- Processing Time = 12.5137ms.
+    - K43EGK	 confidence: 92.0125
+Processing successful
+images/005.jpg
+Total Time to process image: 68.4694ms.
+plate0: 1 results -- Processing Time = 11.5657ms.
+    - K43EGK	 confidence: 93.2291
+Processing successful
+images/006.jpg
+Total Time to process image: 69.2137ms.
+plate0: 1 results -- Processing Time = 12.537ms.
+    - K43EGK	 confidence: 92.6126
+Processing successful
+images/007.jpg
+Total Time to process image: 69.1674ms.
+plate0: 1 results -- Processing Time = 12.0674ms.
+    - K43EGK	 confidence: 91.6432
+Processing successful
+images/008.jpg
+Total Time to process image: 69.181ms.
+plate0: 1 results -- Processing Time = 11.7032ms.
+    - K43EGK	 confidence: 93.2662
+Processing successful
+images/009.jpg
+Total Time to process image: 70.0414ms.
+plate0: 1 results -- Processing Time = 12.6806ms.
+    - K43EGK	 confidence: 91.9543
+Processing successful
+images/010.jpg
+Total Time to process image: 69.3368ms.
+plate0: 1 results -- Processing Time = 12.1086ms.
+    - K43EGK	 confidence: 92.6979
+Processing successful
+images/011.jpg
+Total Time to process image: 68.3873ms.
+plate0: 1 results -- Processing Time = 11.2921ms.
+    - K43EGK	 confidence: 92.0947
+Processing successful
+images/012.jpg
+Total Time to process image: 68.7661ms.
+plate0: 1 results -- Processing Time = 11.8176ms.
+    - K43EGK	 confidence: 91.4361
+Processing successful
+images/013.jpg
+Total Time to process image: 68.412ms.
+plate0: 1 results -- Processing Time = 11.9455ms.
+    - K43EGK	 confidence: 92.4297
+Processing successful
+images/014.jpg
+Total Time to process image: 68.6025ms.
+plate0: 1 results -- Processing Time = 11.8201ms.
+    - K43EGK	 confidence: 92.0195
+Processing successful
+images/015.jpg
+Total Time to process image: 69.4154ms.
+plate0: 1 results -- Processing Time = 12.2124ms.
+    - K43EGK	 confidence: 92.8861
+Processing successful
+images/016.jpg
+Total Time to process image: 69.418ms.
+plate0: 1 results -- Processing Time = 12.1787ms.
+    - K43EGK	 confidence: 91.7701
+Processing successful
+images/017.jpg
+Total Time to process image: 69.0178ms.
+plate0: 1 results -- Processing Time = 11.9275ms.
+    - K43EGK	 confidence: 91.8369
+Processing successful
+images/018.jpg
+Total Time to process image: 70.1537ms.
+plate0: 1 results -- Processing Time = 12.5905ms.
+    - K43EGK	 confidence: 92.9716
+Processing successful
+images/019.jpg
+Total Time to process image: 69.3731ms.
+plate0: 1 results -- Processing Time = 11.8657ms.
+    - K43EGK	 confidence: 92.3823
+Processing successful
+images/020.jpg
+Total Time to process image: 71.5178ms.
+plate0: 1 results -- Processing Time = 11.8392ms.
+    - K43EGK	 confidence: 92.2813
+Processing successful
+images/021.jpg
+Total Time to process image: 70.0657ms.
+plate0: 1 results -- Processing Time = 12.4917ms.
+    - K43EGK	 confidence: 92.0526
+Processing successful
+images/022.jpg
+Total Time to process image: 69.7244ms.
+plate0: 1 results -- Processing Time = 12.2116ms.
+    - K43EGK	 confidence: 92.1138
+Processing successful
+images/023.jpg
+Total Time to process image: 71.7963ms.
+plate0: 1 results -- Processing Time = 12.0712ms.
+    - K43EGK	 confidence: 91.9209
+Processing successful
+images/024.jpg
+Total Time to process image: 68.562ms.
+plate0: 1 results -- Processing Time = 11.9753ms.
+    - K43EGK	 confidence: 93.2407
+Processing successful
+images/025.jpg
+Total Time to process image: 69.1999ms.
+plate0: 1 results -- Processing Time = 11.946ms.
+    - K43EGK	 confidence: 93.3903
+Processing successful
+images/026.jpg
+Total Time to process image: 69.1358ms.
+plate0: 1 results -- Processing Time = 11.7675ms.
+    - K43EGK	 confidence: 92.339
+Processing successful
+images/027.jpg
+Total Time to process image: 69.4471ms.
+plate0: 1 results -- Processing Time = 12.1062ms.
+    - K43EGK	 confidence: 92.9696
+Processing successful
+images/028.jpg
+Total Time to process image: 69.2019ms.
+plate0: 1 results -- Processing Time = 11.7223ms.
+    - K43EGK	 confidence: 93.4498
+Processing successful
+images/029.jpg
+Total Time to process image: 69.326ms.
+plate0: 1 results -- Processing Time = 12.3658ms.
+    - K43EGK	 confidence: 92.1585
+Processing successful
+images/030.jpg
+Total Time to process image: 69.823ms.
+plate0: 1 results -- Processing Time = 12.329ms.
+    - K43EGK	 confidence: 93.6496
+Processing successful
+images/031.jpg
+Total Time to process image: 70.056ms.
+plate0: 1 results -- Processing Time = 12.7098ms.
+    - K43EGK	 confidence: 91.3102
+Processing successful
+images/032.jpg
+Total Time to process image: 70.4105ms.
+plate0: 1 results -- Processing Time = 12.3129ms.
+    - K43EGK	 confidence: 91.0373
+Processing successful
+images/033.jpg
+Total Time to process image: 69.901ms.
+plate0: 1 results -- Processing Time = 12.6371ms.
+    - K43EGK	 confidence: 92.6531
+Processing successful
+images/034.jpg
+Total Time to process image: 68.0524ms.
+plate0: 1 results -- Processing Time = 11.0889ms.
+    - K43EGK	 confidence: 91.0624
+Processing successful
+images/035.jpg
+Total Time to process image: 69.8135ms.
+plate0: 1 results -- Processing Time = 12.4762ms.
+    - K43EGK	 confidence: 91.1445
+Processing successful
+images/036.jpg
+Total Time to process image: 68.7016ms.
+plate0: 1 results -- Processing Time = 12.0946ms.
+    - K43EGK	 confidence: 91.9998
+Processing successful
+images/037.jpg
+Total Time to process image: 68.7699ms.
+plate0: 1 results -- Processing Time = 12.1264ms.
+    - K43EGK	 confidence: 92.9406
+Processing successful
+images/038.jpg
+Total Time to process image: 68.533ms.
+plate0: 1 results -- Processing Time = 12.5364ms.
+    - K43EGK	 confidence: 92.4127
+Processing successful
+images/039.jpg
+Total Time to process image: 68.0926ms.
+plate0: 1 results -- Processing Time = 11.7972ms.
+    - K43EGK	 confidence: 91.9564
+Processing successful
+images/040.jpg
+Total Time to process image: 68.3709ms.
+plate0: 1 results -- Processing Time = 11.6848ms.
+    - K43EGK	 confidence: 93.6211
+Processing successful
+images/041.jpg
+Total Time to process image: 69.5028ms.
+plate0: 1 results -- Processing Time = 12.0505ms.
+    - K43EGK	 confidence: 91.4679
+Processing successful
+images/042.jpg
+Total Time to process image: 69.3348ms.
+plate0: 1 results -- Processing Time = 12.4345ms.
+    - K43EGK	 confidence: 91.4651
+Processing successful
+images/043.jpg
+Total Time to process image: 70.56ms.
+plate0: 1 results -- Processing Time = 13.245ms.
+    - K43EGK	 confidence: 92.5353
+Processing successful
+images/044.jpg
+Total Time to process image: 68.1741ms.
+plate0: 1 results -- Processing Time = 12.0001ms.
+    - K43EGK	 confidence: 89.9949
+Processing successful
+images/045.jpg
+Total Time to process image: 69.9803ms.
+plate0: 1 results -- Processing Time = 12.8768ms.
+    - K43EGK	 confidence: 91.6412
+Processing successful
+images/046.jpg
+Total Time to process image: 69.2398ms.
+plate0: 1 results -- Processing Time = 11.9181ms.
+    - K43EGK	 confidence: 92.025
+Processing successful
+images/047.jpg
+Total Time to process image: 69.7376ms.
+plate0: 1 results -- Processing Time = 12.3632ms.
+    - K43EGK	 confidence: 93.1541
+Processing successful
+images/048.jpg
+Total Time to process image: 69.2232ms.
+plate0: 1 results -- Processing Time = 12.6826ms.
+    - K43EGK	 confidence: 91.0334
+Processing successful
+images/049.jpg
+Total Time to process image: 68.6196ms.
+plate0: 1 results -- Processing Time = 12ms.
+    - K43EGK	 confidence: 92.2237
+Processing successful
+images/050.jpg
+Total Time to process image: 67.7248ms.
+plate0: 1 results -- Processing Time = 11.4663ms.
+    - K43EGK	 confidence: 92.1111
+Processing successful
+images/051.jpg
+Total Time to process image: 68.15ms.
+plate0: 1 results -- Processing Time = 12.5165ms.
+    - K43EGK	 confidence: 92.6061
+Processing successful
+images/052.jpg
+Total Time to process image: 66.8351ms.
+plate0: 1 results -- Processing Time = 11.6019ms.
+    - K43EGK	 confidence: 90.7518
+Processing successful
+images/053.jpg
+Total Time to process image: 67.8506ms.
+plate0: 1 results -- Processing Time = 12.7136ms.
+    - K43EGK	 confidence: 91.7486
+Processing successful
+images/054.jpg
+Total Time to process image: 66.7137ms.
+plate0: 1 results -- Processing Time = 12.0842ms.
+    - K43EGK	 confidence: 90.9672
+Processing successful
+images/055.jpg
+Total Time to process image: 67.1587ms.
+plate0: 1 results -- Processing Time = 12.263ms.
+    - K43EGK	 confidence: 92.421
+Processing successful
+images/056.jpg
+Total Time to process image: 66.9067ms.
+plate0: 1 results -- Processing Time = 11.8587ms.
+    - K43EGK	 confidence: 91.8022
+Processing successful
+images/057.jpg
+Total Time to process image: 67.1343ms.
+plate0: 1 results -- Processing Time = 12.0666ms.
+    - K43EGK	 confidence: 89.9526
+Processing successful
+images/058.jpg
+Total Time to process image: 66.6723ms.
+plate0: 1 results -- Processing Time = 11.725ms.
+    - K43EGK	 confidence: 91.8345
+Processing successful
+images/059.jpg
+Total Time to process image: 67.249ms.
+plate0: 1 results -- Processing Time = 12.2575ms.
+    - K43EG	 confidence: 87.4811
+Processing successful
+images/060.jpg
+Total Time to process image: 66.1685ms.
+plate0: 1 results -- Processing Time = 11.803ms.
+    - K43EGK	 confidence: 89.7796
+Processing successful
+images/061.jpg
+Total Time to process image: 66.7618ms.
+plate0: 1 results -- Processing Time = 12.0396ms.
+    - K43EGK	 confidence: 92.3934
+Processing successful
+images/062.jpg
+Total Time to process image: 65.4265ms.
+plate0: 1 results -- Processing Time = 11.2347ms.
+    - K43EGK	 confidence: 92.2904
+Processing successful
+images/063.jpg
+Total Time to process image: 64.8552ms.
+plate0: 1 results -- Processing Time = 11.5239ms.
+    - K43EGK	 confidence: 90.8861
+Processing successful
+images/064.jpg
+Total Time to process image: 64.9691ms.
+plate0: 1 results -- Processing Time = 11.5221ms.
+    - K43EGK	 confidence: 91.2643
+Processing successful
+images/065.jpg
+Total Time to process image: 64.0082ms.
+plate0: 1 results -- Processing Time = 11.4563ms.
+    - K43EGK	 confidence: 92.4925
+Processing successful
+images/066.jpg
+Total Time to process image: 62.7925ms.
+plate0: 1 results -- Processing Time = 11.3593ms.
+    - K43EGK	 confidence: 91.6134
+Processing successful
+images/067.jpg
+Total Time to process image: 62.1479ms.
+plate0: 1 results -- Processing Time = 10.6034ms.
+    - 43EGK	 confidence: 90.301
+Processing successful
+images/068.jpg
+Total Time to process image: 51.0852ms.
+No license plates found.
+Processing successful
+images/069.jpg
+Total Time to process image: 51.4418ms.
+No license plates found.
+Processing successful
+images/070.jpg
+Total Time to process image: 50.8618ms.
+No license plates found.
+Processing successful
+images/071.jpg
+Total Time to process image: 51.4512ms.
+No license plates found.
+Processing successful
+images/072.jpg
+Total Time to process image: 51.4587ms.
+No license plates found.
+Processing successful
+images/073.jpg
+Total Time to process image: 51.182ms.
+No license plates found.
+Processing successful
+images/074.jpg
+Total Time to process image: 51.336ms.
+No license plates found.
+Processing successful
+images/075.jpg
+Total Time to process image: 51.6586ms.
+No license plates found.
+Processing successful
+images/076.jpg
+Total Time to process image: 51.794ms.
+No license plates found.
+Processing successful
+images/077.jpg
+Total Time to process image: 51.7084ms.
+No license plates found.
+Processing successful
+images/078.jpg
+Total Time to process image: 53.3918ms.
+No license plates found.
+Processing successful
+images/079.jpg
+Total Time to process image: 52.0555ms.
+No license plates found.
+Processing successful
+images/080.jpg
+Total Time to process image: 52.0461ms.
+No license plates found.
+Processing successful
+images/081.jpg
+Total Time to process image: 52.6979ms.
+No license plates found.
+Processing successful
+images/082.jpg
+Total Time to process image: 52.6282ms.
+No license plates found.
+Processing successful
+images/083.jpg
+Total Time to process image: 51.6204ms.
+No license plates found.
+Processing successful
+images/084.jpg
+Total Time to process image: 51.5494ms.
+No license plates found.
+Processing successful
+images/085.jpg
+Total Time to process image: 50.819ms.
+No license plates found.
+Processing successful
+images/086.jpg
+Total Time to process image: 50.4272ms.
+No license plates found.
+Processing successful
+images/087.jpg
+Total Time to process image: 51.1351ms.
+No license plates found.
+Processing successful
+images/088.jpg
+Total Time to process image: 51.1187ms.
+No license plates found.
+Processing successful
+images/089.jpg
+Total Time to process image: 50.9669ms.
+No license plates found.
+Processing successful
+images/090.jpg
+Total Time to process image: 50.8767ms.
+No license plates found.
+Processing successful
+images/091.jpg
+Total Time to process image: 50.4289ms.
+No license plates found.
+Processing successful
+images/092.jpg
+Total Time to process image: 50.6637ms.
+No license plates found.
+Processing successful
+images/093.jpg
+Total Time to process image: 50.6799ms.
+No license plates found.
+Processing successful
+images/094.jpg
+Total Time to process image: 50.3388ms.
+No license plates found.
+Processing successful
+images/095.jpg
+Total Time to process image: 50.6128ms.
+No license plates found.
+Processing successful
+images/096.jpg
+Total Time to process image: 50.7101ms.
+No license plates found.
+Processing successful
+images/097.jpg
+Total Time to process image: 50.7125ms.
+No license plates found.
+Processing successful
+images/098.jpg
+Total Time to process image: 50.7265ms.
+No license plates found.
+Processing successful
+images/099.jpg
+Total Time to process image: 50.6724ms.
+No license plates found.
+Processing successful
+images/100.jpg
+Total Time to process image: 51.2234ms.
+No license plates found.
+Processing successful
+images/1000.jpg
+Total Time to process image: 59.882ms.
+No license plates found.
+Processing successful
+images/1001.jpg
+Total Time to process image: 59.7349ms.
+No license plates found.
+Processing successful
+images/1002.jpg
+Total Time to process image: 60.2524ms.
+No license plates found.
+Processing successful
+images/1003.jpg
+Total Time to process image: 59.2017ms.
+No license plates found.
+Processing successful
+images/1004.jpg
+Total Time to process image: 58.8284ms.
+No license plates found.
+Processing successful
+images/1005.jpg
+Total Time to process image: 59.0156ms.
+No license plates found.
+Processing successful
+images/1006.jpg
+Total Time to process image: 59.3766ms.
+No license plates found.
+Processing successful
+images/1007.jpg
+Total Time to process image: 58.7109ms.
+No license plates found.
+Processing successful
+images/1008.jpg
+Total Time to process image: 59.0418ms.
+No license plates found.
+Processing successful
+images/1009.jpg
+Total Time to process image: 60.0917ms.
+No license plates found.
+Processing successful
+images/101.jpg
+Total Time to process image: 50.8835ms.
+No license plates found.
+Processing successful
+images/1010.jpg
+Total Time to process image: 60.2663ms.
+No license plates found.
+Processing successful
+images/1011.jpg
+Total Time to process image: 60.1996ms.
+No license plates found.
+Processing successful
+images/1012.jpg
+Total Time to process image: 62.3125ms.
+No license plates found.
+Processing successful
+images/1013.jpg
+Total Time to process image: 60.6547ms.
+No license plates found.
+Processing successful
+images/1014.jpg
+Total Time to process image: 59.9398ms.
+No license plates found.
+Processing successful
+images/1015.jpg
+Total Time to process image: 59.793ms.
+No license plates found.
+Processing successful
+images/1016.jpg
+Total Time to process image: 59.0667ms.
+No license plates found.
+Processing successful
+images/1017.jpg
+Total Time to process image: 59.1495ms.
+No license plates found.
+Processing successful
+images/1018.jpg
+Total Time to process image: 58.5907ms.
+No license plates found.
+Processing successful
+images/1019.jpg
+Total Time to process image: 58.6038ms.
+No license plates found.
+Processing successful
+images/102.jpg
+Total Time to process image: 53.8099ms.
+No license plates found.
+Processing successful
+images/1020.jpg
+Total Time to process image: 58.3296ms.
+No license plates found.
+Processing successful
+images/1021.jpg
+Total Time to process image: 58.6905ms.
+No license plates found.
+Processing successful
+images/1022.jpg
+Total Time to process image: 59.1976ms.
+No license plates found.
+Processing successful
+images/1023.jpg
+Total Time to process image: 58.2342ms.
+No license plates found.
+Processing successful
+images/1024.jpg
+Total Time to process image: 58.8761ms.
+No license plates found.
+Processing successful
+images/1025.jpg
+Total Time to process image: 59.3576ms.
+No license plates found.
+Processing successful
+images/1026.jpg
+Total Time to process image: 59.6915ms.
+No license plates found.
+Processing successful
+images/1027.jpg
+Total Time to process image: 59.5665ms.
+No license plates found.
+Processing successful
+images/1028.jpg
+Total Time to process image: 59.4877ms.
+No license plates found.
+Processing successful
+images/1029.jpg
+Total Time to process image: 59.7402ms.
+No license plates found.
+Processing successful
+images/103.jpg
+Total Time to process image: 51.2731ms.
+No license plates found.
+Processing successful
+images/1030.jpg
+Total Time to process image: 59.7773ms.
+No license plates found.
+Processing successful
+images/1031.jpg
+Total Time to process image: 59.5393ms.
+No license plates found.
+Processing successful
+images/1032.jpg
+Total Time to process image: 78.262ms.
+No license plates found.
+Processing successful
+images/1033.jpg
+Total Time to process image: 59.2837ms.
+No license plates found.
+Processing successful
+images/1034.jpg
+Total Time to process image: 59.2222ms.
+No license plates found.
+Processing successful
+images/1035.jpg
+Total Time to process image: 59.6141ms.
+No license plates found.
+Processing successful
+images/1036.jpg
+Total Time to process image: 59.6226ms.
+No license plates found.
+Processing successful
+images/1037.jpg
+Total Time to process image: 59.3272ms.
+No license plates found.
+Processing successful
+images/1038.jpg
+Total Time to process image: 59.2307ms.
+No license plates found.
+Processing successful
+images/1039.jpg
+Total Time to process image: 59.8797ms.
+No license plates found.
+Processing successful
+images/104.jpg
+Total Time to process image: 52.2898ms.
+No license plates found.
+Processing successful
+images/1040.jpg
+Total Time to process image: 58.9479ms.
+No license plates found.
+Processing successful
+images/1041.jpg
+Total Time to process image: 59.5679ms.
+No license plates found.
+Processing successful
+images/1042.jpg
+Total Time to process image: 58.6311ms.
+No license plates found.
+Processing successful
+images/1043.jpg
+Total Time to process image: 61.0249ms.
+No license plates found.
+Processing successful
+images/1044.jpg
+Total Time to process image: 59.2358ms.
+No license plates found.
+Processing successful
+images/1045.jpg
+Total Time to process image: 58.4138ms.
+No license plates found.
+Processing successful
+images/1046.jpg
+Total Time to process image: 58.9992ms.
+No license plates found.
+Processing successful
+images/1047.jpg
+Total Time to process image: 59.4523ms.
+No license plates found.
+Processing successful
+images/1048.jpg
+Total Time to process image: 59.2106ms.
+No license plates found.
+Processing successful
+images/1049.jpg
+Total Time to process image: 59.3529ms.
+No license plates found.
+Processing successful
+images/105.jpg
+Total Time to process image: 50.5121ms.
+No license plates found.
+Processing successful
+images/1050.jpg
+Total Time to process image: 59.3658ms.
+No license plates found.
+Processing successful
+images/1051.jpg
+Total Time to process image: 57.7363ms.
+No license plates found.
+Processing successful
+images/1052.jpg
+Total Time to process image: 58.6133ms.
+No license plates found.
+Processing successful
+images/1053.jpg
+Total Time to process image: 58.658ms.
+No license plates found.
+Processing successful
+images/1054.jpg
+Total Time to process image: 58.9591ms.
+No license plates found.
+Processing successful
+images/1055.jpg
+Total Time to process image: 59.4708ms.
+No license plates found.
+Processing successful
+images/1056.jpg
+Total Time to process image: 59.2681ms.
+No license plates found.
+Processing successful
+images/1057.jpg
+Total Time to process image: 59.6047ms.
+No license plates found.
+Processing successful
+images/1058.jpg
+Total Time to process image: 59.3021ms.
+No license plates found.
+Processing successful
+images/1059.jpg
+Total Time to process image: 59.5549ms.
+No license plates found.
+Processing successful
+images/106.jpg
+Total Time to process image: 50.94ms.
+No license plates found.
+Processing successful
+images/1060.jpg
+Total Time to process image: 59.4514ms.
+No license plates found.
+Processing successful
+images/1061.jpg
+Total Time to process image: 79ms.
+No license plates found.
+Processing successful
+images/1062.jpg
+Total Time to process image: 59.2268ms.
+No license plates found.
+Processing successful
+images/1063.jpg
+Total Time to process image: 59.2312ms.
+No license plates found.
+Processing successful
+images/1064.jpg
+Total Time to process image: 58.6057ms.
+No license plates found.
+Processing successful
+images/1065.jpg
+Total Time to process image: 58.7062ms.
+No license plates found.
+Processing successful
+images/1066.jpg
+Total Time to process image: 59.7861ms.
+No license plates found.
+Processing successful
+images/1067.jpg
+Total Time to process image: 58.5312ms.
+No license plates found.
+Processing successful
+images/1068.jpg
+Total Time to process image: 58.7089ms.
+No license plates found.
+Processing successful
+images/1069.jpg
+Total Time to process image: 58.5601ms.
+No license plates found.
+Processing successful
+images/107.jpg
+Total Time to process image: 50.3579ms.
+No license plates found.
+Processing successful
+images/1070.jpg
+Total Time to process image: 57.8787ms.
+No license plates found.
+Processing successful
+images/1071.jpg
+Total Time to process image: 57.5695ms.
+No license plates found.
+Processing successful
+images/1072.jpg
+Total Time to process image: 58.0794ms.
+No license plates found.
+Processing successful
+images/1073.jpg
+Total Time to process image: 57.6698ms.
+No license plates found.
+Processing successful
+images/1074.jpg
+Total Time to process image: 57.6983ms.
+No license plates found.
+Processing successful
+images/1075.jpg
+Total Time to process image: 57.0272ms.
+No license plates found.
+Processing successful
+images/1076.jpg
+Total Time to process image: 56.9331ms.
+No license plates found.
+Processing successful
+images/1077.jpg
+Total Time to process image: 57.4043ms.
+No license plates found.
+Processing successful
+images/1078.jpg
+Total Time to process image: 56.7035ms.
+No license plates found.
+Processing successful
+images/1079.jpg
+Total Time to process image: 56.5671ms.
+No license plates found.
+Processing successful
+images/108.jpg
+Total Time to process image: 50.3646ms.
+No license plates found.
+Processing successful
+images/1080.jpg
+Total Time to process image: 56.8233ms.
+No license plates found.
+Processing successful
+images/1081.jpg
+Total Time to process image: 56.5821ms.
+No license plates found.
+Processing successful
+images/1082.jpg
+Total Time to process image: 57.3028ms.
+No license plates found.
+Processing successful
+images/1083.jpg
+Total Time to process image: 57.3813ms.
+No license plates found.
+Processing successful
+images/1084.jpg
+Total Time to process image: 57.0452ms.
+No license plates found.
+Processing successful
+images/1085.jpg
+Total Time to process image: 57.267ms.
+No license plates found.
+Processing successful
+images/1086.jpg
+Total Time to process image: 57.1411ms.
+No license plates found.
+Processing successful
+images/1087.jpg
+Total Time to process image: 57.3779ms.
+No license plates found.
+Processing successful
+images/1088.jpg
+Total Time to process image: 58.3592ms.
+No license plates found.
+Processing successful
+images/1089.jpg
+Total Time to process image: 57.8915ms.
+No license plates found.
+Processing successful
+images/109.jpg
+Total Time to process image: 49.8055ms.
+No license plates found.
+Processing successful
+images/1090.jpg
+Total Time to process image: 57.6154ms.
+No license plates found.
+Processing successful
+images/1091.jpg
+Total Time to process image: 59.0717ms.
+No license plates found.
+Processing successful
+images/1092.jpg
+Total Time to process image: 57.5961ms.
+No license plates found.
+Processing successful
+images/1093.jpg
+Total Time to process image: 57.2177ms.
+No license plates found.
+Processing successful
+images/1094.jpg
+Total Time to process image: 58.0241ms.
+No license plates found.
+Processing successful
+images/1095.jpg
+Total Time to process image: 56.9366ms.
+No license plates found.
+Processing successful
+images/1096.jpg
+Total Time to process image: 56.2716ms.
+No license plates found.
+Processing successful
+images/1097.jpg
+Total Time to process image: 56.6765ms.
+No license plates found.
+Processing successful
+images/1098.jpg
+Total Time to process image: 56.168ms.
+No license plates found.
+Processing successful
+images/1099.jpg
+Total Time to process image: 57.3556ms.
+No license plates found.
+Processing successful
+images/110.jpg
+Total Time to process image: 49.403ms.
+No license plates found.
+Processing successful
+images/1100.jpg
+Total Time to process image: 56.1976ms.
+No license plates found.
+Processing successful
+images/1101.jpg
+Total Time to process image: 56.4172ms.
+No license plates found.
+Processing successful
+images/1102.jpg
+Total Time to process image: 57.1405ms.
+No license plates found.
+Processing successful
+images/1103.jpg
+Total Time to process image: 56.4993ms.
+No license plates found.
+Processing successful
+images/1104.jpg
+Total Time to process image: 57.1187ms.
+No license plates found.
+Processing successful
+images/1105.jpg
+Total Time to process image: 57.0625ms.
+No license plates found.
+Processing successful
+images/1106.jpg
+Total Time to process image: 56.9785ms.
+No license plates found.
+Processing successful
+images/1107.jpg
+Total Time to process image: 56.8104ms.
+No license plates found.
+Processing successful
+images/1108.jpg
+Total Time to process image: 57.6844ms.
+No license plates found.
+Processing successful
+images/1109.jpg
+Total Time to process image: 57.0128ms.
+No license plates found.
+Processing successful
+images/111.jpg
+Total Time to process image: 49.3062ms.
+No license plates found.
+Processing successful
+images/1110.jpg
+Total Time to process image: 57.4064ms.
+No license plates found.
+Processing successful
+images/1111.jpg
+Total Time to process image: 57.7953ms.
+No license plates found.
+Processing successful
+images/1112.jpg
+Total Time to process image: 58.5415ms.
+No license plates found.
+Processing successful
+images/1113.jpg
+Total Time to process image: 57.9656ms.
+No license plates found.
+Processing successful
+images/1114.jpg
+Total Time to process image: 58.1125ms.
+No license plates found.
+Processing successful
+images/1115.jpg
+Total Time to process image: 58.2286ms.
+No license plates found.
+Processing successful
+images/1116.jpg
+Total Time to process image: 58.3431ms.
+No license plates found.
+Processing successful
+images/1117.jpg
+images/001.jpg
+Total Time to process image: 68.5215ms.
+plate0: 1 results -- Processing Time = 12.1852ms.
+    - K43EGK	 confidence: 90.6924
+Processing successful
+images/002.jpg
+Total Time to process image: 68.5557ms.
+plate0: 1 results -- Processing Time = 12.1698ms.
+    - K43EGK	 confidence: 91.4855
+Processing successful
+images/003.jpg
+Total Time to process image: 68.2993ms.
+plate0: 1 results -- Processing Time = 11.5304ms.
+    - K43EGK	 confidence: 92.2534
+Processing successful
+images/004.jpg
+Total Time to process image: 68.9974ms.
+plate0: 1 results -- Processing Time = 12.5299ms.
+    - K43EGK	 confidence: 92.0125
+Processing successful
+images/005.jpg
+Total Time to process image: 68.3781ms.
+plate0: 1 results -- Processing Time = 11.5624ms.
+    - K43EGK	 confidence: 93.2291
+Processing successful
+images/006.jpg
+Total Time to process image: 69.3502ms.
+plate0: 1 results -- Processing Time = 12.5639ms.
+    - K43EGK	 confidence: 92.6126
+Processing successful
+images/007.jpg
+Total Time to process image: 69.4643ms.
+plate0: 1 results -- Processing Time = 12.054ms.
+    - K43EGK	 confidence: 91.6432
+Processing successful
+images/008.jpg
+Total Time to process image: 68.7481ms.
+plate0: 1 results -- Processing Time = 11.7383ms.
+    - K43EGK	 confidence: 93.2662
+Processing successful
+images/009.jpg
+Total Time to process image: 69.8831ms.
+plate0: 1 results -- Processing Time = 12.6917ms.
+    - K43EGK	 confidence: 91.9543
+Processing successful
+images/010.jpg
+Total Time to process image: 69.5569ms.
+plate0: 1 results -- Processing Time = 12.0943ms.
+    - K43EGK	 confidence: 92.6979
+Processing successful
+images/011.jpg
+Total Time to process image: 68.2516ms.
+plate0: 1 results -- Processing Time = 11.352ms.
+    - K43EGK	 confidence: 92.0947
+Processing successful
+images/012.jpg
+Total Time to process image: 68.7326ms.
+plate0: 1 results -- Processing Time = 11.8555ms.
+    - K43EGK	 confidence: 91.4361
+Processing successful
+images/013.jpg
+Total Time to process image: 68.6687ms.
+plate0: 1 results -- Processing Time = 11.9779ms.
+    - K43EGK	 confidence: 92.4297
+Processing successful
+images/014.jpg
+Total Time to process image: 68.6034ms.
+plate0: 1 results -- Processing Time = 11.925ms.
+    - K43EGK	 confidence: 92.0195
+Processing successful
+images/015.jpg
+Total Time to process image: 69.6788ms.
+plate0: 1 results -- Processing Time = 12.3761ms.
+    - K43EGK	 confidence: 92.8861
+Processing successful
+images/016.jpg
+Total Time to process image: 69.1889ms.
+plate0: 1 results -- Processing Time = 12.211ms.
+    - K43EGK	 confidence: 91.7701
+Processing successful
+images/017.jpg
+Total Time to process image: 69.1714ms.
+plate0: 1 results -- Processing Time = 11.9184ms.
+    - K43EGK	 confidence: 91.8369
+Processing successful
+images/018.jpg
+Total Time to process image: 70.497ms.
+plate0: 1 results -- Processing Time = 12.6732ms.
+    - K43EGK	 confidence: 92.9716
+Processing successful
+images/019.jpg
+Total Time to process image: 69.7586ms.
+plate0: 1 results -- Processing Time = 11.9342ms.
+    - K43EGK	 confidence: 92.3823
+Processing successful
+images/020.jpg
+Total Time to process image: 69.3536ms.
+plate0: 1 results -- Processing Time = 11.841ms.
+    - K43EGK	 confidence: 92.2813
+Processing successful
+images/021.jpg
+Total Time to process image: 70.5564ms.
+plate0: 1 results -- Processing Time = 12.5879ms.
+    - K43EGK	 confidence: 92.0526
+Processing successful
+images/022.jpg
+Total Time to process image: 69.6929ms.
+plate0: 1 results -- Processing Time = 12.2475ms.
+    - K43EGK	 confidence: 92.1138
+Processing successful
+images/023.jpg
+Total Time to process image: 69.8611ms.
+plate0: 1 results -- Processing Time = 12.0732ms.
+    - K43EGK	 confidence: 91.9209
+Processing successful
+images/024.jpg
+Total Time to process image: 69.1723ms.
+plate0: 1 results -- Processing Time = 11.9831ms.
+    - K43EGK	 confidence: 93.2407
+Processing successful
+images/025.jpg
+Total Time to process image: 69.5707ms.
+plate0: 1 results -- Processing Time = 11.9546ms.
+    - K43EGK	 confidence: 93.3903
+Processing successful
+images/026.jpg
+Total Time to process image: 69.1397ms.
+plate0: 1 results -- Processing Time = 11.8091ms.
+    - K43EGK	 confidence: 92.339
+Processing successful
+images/027.jpg
+Total Time to process image: 69.1586ms.
+plate0: 1 results -- Processing Time = 12.0908ms.
+    - K43EGK	 confidence: 92.9696
+Processing successful
+images/028.jpg
+Total Time to process image: 69.0425ms.
+plate0: 1 results -- Processing Time = 11.797ms.
+    - K43EGK	 confidence: 93.4498
+Processing successful
+images/029.jpg
+Total Time to process image: 69.4153ms.
+plate0: 1 results -- Processing Time = 12.4033ms.
+    - K43EGK	 confidence: 92.1585
+Processing successful
+images/030.jpg
+Total Time to process image: 69.1945ms.
+plate0: 1 results -- Processing Time = 12.3647ms.
+    - K43EGK	 confidence: 93.6496
+Processing successful
+images/031.jpg
+Total Time to process image: 70.3481ms.
+plate0: 1 results -- Processing Time = 12.7689ms.
+    - K43EGK	 confidence: 91.3102
+Processing successful
+images/032.jpg
+Total Time to process image: 70.4287ms.
+plate0: 1 results -- Processing Time = 12.3253ms.
+    - K43EGK	 confidence: 91.0373
+Processing successful
+images/033.jpg
+Total Time to process image: 69.8004ms.
+plate0: 1 results -- Processing Time = 12.6706ms.
+    - K43EGK	 confidence: 92.6531
+Processing successful
+images/034.jpg
+Total Time to process image: 68.2306ms.
+plate0: 1 results -- Processing Time = 11.1181ms.
+    - K43EGK	 confidence: 91.0624
+Processing successful
+images/035.jpg
+Total Time to process image: 70.121ms.
+plate0: 1 results -- Processing Time = 12.489ms.
+    - K43EGK	 confidence: 91.1445
+Processing successful
+images/036.jpg
+Total Time to process image: 68.4721ms.
+plate0: 1 results -- Processing Time = 12.0756ms.
+    - K43EGK	 confidence: 91.9998
+Processing successful
+images/037.jpg
+Total Time to process image: 68.0746ms.
+plate0: 1 results -- Processing Time = 12.1802ms.
+    - K43EGK	 confidence: 92.9406
+Processing successful
+images/038.jpg
+Total Time to process image: 68.5923ms.
+plate0: 1 results -- Processing Time = 12.5812ms.
+    - K43EGK	 confidence: 92.4127
+Processing successful
+images/039.jpg
+Total Time to process image: 68.0159ms.
+plate0: 1 results -- Processing Time = 11.802ms.
+    - K43EGK	 confidence: 91.9564
+Processing successful
+images/040.jpg
+Total Time to process image: 68.5366ms.
+plate0: 1 results -- Processing Time = 11.7283ms.
+    - K43EGK	 confidence: 93.6211
+Processing successful
+images/041.jpg
+Total Time to process image: 69.1503ms.
+plate0: 1 results -- Processing Time = 12.066ms.
+    - K43EGK	 confidence: 91.4679
+Processing successful
+images/042.jpg
+Total Time to process image: 69.5431ms.
+plate0: 1 results -- Processing Time = 12.4042ms.
+    - K43EGK	 confidence: 91.4651
+Processing successful
+images/043.jpg
+Total Time to process image: 71.0095ms.
+plate0: 1 results -- Processing Time = 13.2473ms.
+    - K43EGK	 confidence: 92.5353
+Processing successful
+images/044.jpg
+Total Time to process image: 68.4317ms.
+plate0: 1 results -- Processing Time = 12.0086ms.
+    - K43EGK	 confidence: 89.9949
+Processing successful
+images/045.jpg
+Total Time to process image: 70.1312ms.
+plate0: 1 results -- Processing Time = 12.9279ms.
+    - K43EGK	 confidence: 91.6412
+Processing successful
+images/046.jpg
+Total Time to process image: 69.0404ms.
+plate0: 1 results -- Processing Time = 11.9978ms.
+    - K43EGK	 confidence: 92.025
+Processing successful
+images/047.jpg
+Total Time to process image: 69.5211ms.
+plate0: 1 results -- Processing Time = 12.391ms.
+    - K43EGK	 confidence: 93.1541
+Processing successful
+images/048.jpg
+Total Time to process image: 69.7945ms.
+plate0: 1 results -- Processing Time = 12.7047ms.
+    - K43EGK	 confidence: 91.0334
+Processing successful
+images/049.jpg
+Total Time to process image: 68.3922ms.
+plate0: 1 results -- Processing Time = 12.0376ms.
+    - K43EGK	 confidence: 92.2237
+Processing successful
+images/050.jpg
+Total Time to process image: 67.7792ms.
+plate0: 1 results -- Processing Time = 11.4904ms.
+    - K43EGK	 confidence: 92.1111
+Processing successful
+images/051.jpg
+Total Time to process image: 68.8567ms.
+plate0: 1 results -- Processing Time = 12.5319ms.
+    - K43EGK	 confidence: 92.6061
+Processing successful
+images/052.jpg
+Total Time to process image: 67.009ms.
+plate0: 1 results -- Processing Time = 11.6724ms.
+    - K43EGK	 confidence: 90.7518
+Processing successful
+images/053.jpg
+Total Time to process image: 67.9546ms.
+plate0: 1 results -- Processing Time = 12.6544ms.
+    - K43EGK	 confidence: 91.7486
+Processing successful
+images/054.jpg
+Total Time to process image: 66.6732ms.
+plate0: 1 results -- Processing Time = 12.1191ms.
+    - K43EGK	 confidence: 90.9672
+Processing successful
+images/055.jpg
+Total Time to process image: 66.9042ms.
+plate0: 1 results -- Processing Time = 12.2276ms.
+    - K43EGK	 confidence: 92.421
+Processing successful
+images/056.jpg
+Total Time to process image: 66.3572ms.
+plate0: 1 results -- Processing Time = 11.8599ms.
+    - K43EGK	 confidence: 91.8022
+Processing successful
+images/057.jpg
+Total Time to process image: 67.0645ms.
+plate0: 1 results -- Processing Time = 12.0542ms.
+    - K43EGK	 confidence: 89.9526
+Processing successful
+images/058.jpg
+Total Time to process image: 66.7825ms.
+plate0: 1 results -- Processing Time = 11.7135ms.
+    - K43EGK	 confidence: 91.8345
+Processing successful
+images/059.jpg
+Total Time to process image: 67.0702ms.
+plate0: 1 results -- Processing Time = 12.2902ms.
+    - K43EG	 confidence: 87.4811
+Processing successful
